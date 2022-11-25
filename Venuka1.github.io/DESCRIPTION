@@ -1,0 +1,10 @@
+Package: Venuka1
+Type: Package
+Title: Finding factorial
+Version: 0.0.1
+Authors@R: person("Srivenuka", "Villa", email = "h20220815@pilani.bits-pilani.ac.in", role = c("aut", "cre"))
+Description: This package provides function to find factorial
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.2
+Encoding: UTF-8
